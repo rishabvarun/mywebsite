@@ -1,0 +1,29 @@
+.bookinfo{
+        flex:9;
+}
+
+.maintitle {
+        text-align: center;
+}
+.togglelist{
+        cursor: pointer;
+        padding: 10px;
+}
+
+.chapter {
+        display: flex;
+        align-items: center;
+        list-style-type: none;
+}
+.fa {
+        padding-left: 30px;
+}
+
+.listclass {
+        list-style-type: none !important;
+}
+
+.im {
+        height: 10px !important;
+        width: 10px !important;
+}
